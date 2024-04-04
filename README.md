@@ -1,4 +1,4 @@
-# FUP MARKOS   PYTHON 
+# FUDAMENTOS DA PROGRAMAÇÃO NA LIGUAGEM PYTHON 
 ## Bem-vindo ao Repositório de Soluções do Curso de Python! <h3>
 Cada pasta corresponde a um tema específico. Dentro delas, você encontrará os códigos prontos das soluções das atividades propostas. É importante notar que as atividades em si não estão dentro das pastas com as soluções de código.
 
